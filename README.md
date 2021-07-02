@@ -14,6 +14,12 @@ git clone https://github.com/willakuffo/rpa
 ~~~
 
 ### Install Dependencies
+
+* ### [Chrome webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+
+Utilizing Google Chrome, download [webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) for google chrome
+
+
 * ### [Selenium](https://pypi.org/project/selenium/)
 Python language bindings for Selenium WebDriver.
 
